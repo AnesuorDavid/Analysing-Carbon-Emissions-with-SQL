@@ -1,7 +1,8 @@
 -- PROJECT SQL FILE
+-- Cheking availability of data
 SELECT * 
 FROM carbon_emissions;
-
+-- Creating a staging table
 CREATE TABLE carbon_data
 LIKE carbon_emissions;
 
