@@ -1,6 +1,7 @@
 # Analysing-Carbon-Emissions-with-SQL
 To identify which industries and products contribute the most to global emissions and analyze their emissions intensity based on weight and production stage.
-📁 Dataset Overview
+
+Dataset Overview
 The dataset includes over 1,000 records of Product Carbon Footprints (PCFs) with the following key fields:
 
 product_name, company, country, industry_group
